@@ -57,11 +57,6 @@ export default {
             collapse: false,
             items: [
                 {
-                    icon: 'el-icon-lx-home',
-                    index: 'dashboard',
-                    title: '系统首页'
-                },
-                {
                     icon: 'el-icon-lx-cascades',
                     index: 'BaseInfo',
                     title: '学生信息'
